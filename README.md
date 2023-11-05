@@ -1,8 +1,4 @@
-# Design Patterns in Java
-
-It contains Java examples for all classic GoF design patterns.
-
-# Creational Design Patterns
+# Creational Design Patterns in java
 
 Creational design patterns provide solutions to instantiate an Object in the best possible way for specific situations.
 
